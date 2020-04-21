@@ -1,0 +1,83 @@
+		
+
+		¿diferencias entre HTML y HTML5?
+		HTML5 aumento la cantidad de tags
+		etiquetas semásticas	
+		implementación de APIs
+		mejora de formularios.
+
+		¿semantica de elementos HTML?
+		se usa para el desarrollador y para el buscador. Search engine optimization (SEO) 
+		ACCESIBILIDAD. PARA EVITAR ECCESO DE DIV
+
+		¿diferencias entre local storage, section storage, cookies, cache?
+		localStorage almacena datos de forma local por tiempo indefinido
+		sessionStorage almacena datos de forma local mientras la pestaña se siga usando
+		cookies es información denviada desde el sitio web al navegador para conocer actividad previa
+		cache es memoria de datos calculados anteriormente para ser accedidos con mayor rapidez
+			
+
+		CSS
+
+		¿BOX MODEL?
+		base de como funcionan los elementos tipo caja.
+
+		¿diferencias entre CSS Y CSS3?
+		esquinas redondeadas
+		gradientes
+		nuevos layouts (flex y grid)
+		diseños responsivos (Media-Queries)
+		animaciones.
+
+		¿precompiladores de CSS Y ventajas y desventjas respecto a CSS?
+		te permiten crear funciones y variables que luego seran convertidas en CSS estandar para ahorrar tiempo
+		Deben aprender a usarse
+		Puede llevar a algunas malas prácticas
+		Repetir código usando Mixins
+		
+		SCSS, SAS, STYLUS.
+
+		¿especificidad?
+		predominancia de reglas de CSS en un elemento inline>important>ID>clase.
+		mientras mas específico, mayor predominancia
+
+		selector en CCS.
+
+		pseudo clase: se usa para dar estilo  a elementos dependiendo de su estado.
+
+		pseudo elemento: se usa para agregar estilo a ciertas partes de ciertos elementos.
+
+		¿flexbox y cuando no se puede usar?
+		no se puede usar cuando el explorador es menor a internet explorar 9. 
+
+		como centrar un elemento dentro de otro elemento. 
+
+		diseño responsivo: media query. 
+
+		diferencia entre display in line display in line block.
+
+		CSS normalize coloca todos los estilos iguales
+		CSS reset quita todos los estilos.
+		
+		JAVASCRIPT
+		
+		diferencias entre let, var y const. 
+		HOISTING
+
+		CALLBAKCS PROMISES CONTEXT SCOPE EXCUTION CONTEXT LEXICAL ENVIROMENT
+		SCOPE CHAIN EVENT LOOP https://www.youtube.com/watch?v=8aGhZQkoFbQ
+		ASYNC
+
+		https://www.youtube.com/playlist?list=PLneJ4Rpp6YlGAfkF6ulc1JnZNNyyciCNW
+
+		CALL APPLY BIND
+		diferencias entre == y ===
+		por qué existen las arrow functions
+		diferencias entre Null y undefined
+		NaN
+		
+		
+		https://www.youtube.com/playlist?list=PLneJ4Rpp6YlGAfkF6ulc1JnZNNyyciCNW
+		
+
+			
